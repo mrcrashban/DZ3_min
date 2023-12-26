@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">DZ3_min</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Categories">Категории</string>
+    <string name="Account">Категории</string>
+    <string name="add_name">Добавление дохода</string>
+    <string name="hint_add">Введите сумму</string>
+    <string name="Button_add">Добавить доход</string>
+    <string name="Comments">Заметка</string>
+    <string name="hint_comment">Введите заметку</string>
+    <string name="date_input">Введите дату</string>
+    <string name="date">Дата</string>
+    <string name="Summary">Текущий баланс</string>
+    <string name="Account_with">Счет:</string>
+    <string name="Sum_with">Сумма:</string>
+    <string name="Type_with">Тип:</string>
+    <string name="Date_with">Дата:</string>
+    <string name="Comment_with">Заметка:</string>
+    <string name="Category_with">Категория:</string>
+    <string-array name="catNames">
+        <item>Зарплата</item>
+        <item>Вклад</item>
+        <item>Выигрыш</item>
+    </string-array>
+    <string-array name="accNames">
+        <item>Наличные</item>
+        <item>Кредитная карта</item>
+        <item>Дебетовая карта</item>
+    </string-array>
+    <string-array name="cat_names">
+        <item>Рыжик</item>
+        <item>Барсик</item>
+        <item>Мурзик</item>
+        <item>Мурка</item>
+        <item>Васька</item>
+        <item>Томасина</item>
+        <item>Кристина</item>
+        <item>Пушок</item>
+        <item>Дымка</item>
+        <item>Кузя</item>
+        <item>Китти</item>
+        <item>Масяня</item>
+        <item>Симба</item>
+    </string-array>
+</resources>
